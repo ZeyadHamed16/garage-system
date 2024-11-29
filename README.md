@@ -43,8 +43,19 @@ Open the solution file (.sln) in Visual Studio.
 
 Build and run the project.
 
+- Login:
 ![Screenshot 2024-11-29 152146](https://github.com/user-attachments/assets/a0ccc9c2-f9d5-4b3b-abf7-45fdca429a56)
 
+- Any issues will be displayed in a pop-up window.
+![Screenshot 2024-11-29 152034](https://github.com/user-attachments/assets/065ffe2e-337a-4866-b2ca-44693311dc84)
+
+- For the Admin
+![Screenshot 2024-11-29 152330](https://github.com/user-attachments/assets/fcf528f1-e328-4e2c-a8ce-e48278b6c6e5)
+![Screenshot 2024-11-29 152348](https://github.com/user-attachments/assets/96e3529e-8d5b-43db-bb61-f11f02ccf78f)
+![Screenshot 2024-11-29 152355](https://github.com/user-attachments/assets/02d16b6f-7ff7-44f8-8301-55e2809cd07b)
+
+- For the user
+![Screenshot 2024-11-29 152407](https://github.com/user-attachments/assets/66cff054-8545-4720-9995-4d55a3040313)
 
 ---
 ---
