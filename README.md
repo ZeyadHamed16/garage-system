@@ -42,10 +42,6 @@ git clone https://github.com/your-username/your-repo-name.git
 Open the solution file (.sln) in Visual Studio.
 Build and run the project.
 
-![My Image](https://example.com/image.png)
-![Uploading Screenshot 2024-11-29 152146.png…]()
-
-
 ---
 ---
 
