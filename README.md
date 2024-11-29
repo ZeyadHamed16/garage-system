@@ -38,23 +38,23 @@ This is a VB.NET Windows Forms Application demonstrating multi-form navigation, 
 
 ## How to Run
 Clone this repository:
-bash
-Copy code
 git clone https://github.com/your-username/your-repo-name.git
 Open the solution file (.sln) in Visual Studio.
 Build and run the project.
+
+![My Image](https://example.com/image.png)
+
 
 ---
 ---
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance this project:
-
-Fork the repository.
-Create a new branch (git checkout -b feature-name).
-Commit your changes (git commit -m "Add new feature").
-Push to the branch (git push origin feature-name).
-Open a pull request.
+1- Fork the repository.
+2- Create a new branch (git checkout -b feature-name).
+3- Commit your changes (git commit -m "Add new feature").
+4- Push to the branch (git push origin feature-name).
+5- Open a pull request.
 
 ---
 ---
