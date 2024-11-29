@@ -37,9 +37,10 @@ This is a VB.NET Windows Forms Application demonstrating multi-form navigation, 
 ---
 
 ## How to Run
-Clone this repository:
-git clone https://github.com/your-username/your-repo-name.git
+Clone this repository:git clone https://github.com/your-username/your-repo-name.git
+
 Open the solution file (.sln) in Visual Studio.
+
 Build and run the project.
 
 ![Screenshot 2024-11-29 152146](https://github.com/user-attachments/assets/a0ccc9c2-f9d5-4b3b-abf7-45fdca429a56)
