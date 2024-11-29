@@ -66,6 +66,7 @@ Build and run the project.
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance this project:
+
 1- Fork the repository.
 2- Create a new branch (git checkout -b feature-name).
 3- Commit your changes (git commit -m "Add new feature").
