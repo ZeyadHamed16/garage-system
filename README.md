@@ -1,12 +1,12 @@
-#VB.NET Multi-Form Application
+# VB.NET Multi-Form Application
 
-##Overview
+## Overview
 This is a VB.NET Windows Forms Application demonstrating multi-form navigation, interactive panels, and basic login validation. The project is ideal for learning about:
 - Form-to-form communication.
 - Event-driven programming in VB.NET.
 - Managing UI components like picture boxes, panels, and buttons.
 ---
-##Features
+## Features
 1- Login System
  - Validates user credentials.
  - Redirects to the main application (Form2) upon successful login.
